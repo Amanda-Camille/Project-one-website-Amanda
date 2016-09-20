@@ -1,18 +1,24 @@
+@import 'https://fonts.googleapis.com/css?family=Amatic+SC';
 h1{
-  text-align: center;
+  text-align: center; font-family: "Amatic SC";
 }
 p {
-  text-align: center;
+  text-align: center; font-family: "Amatic SC";
+  font-size: 25px;
+  color: navy blue;
 }
 h2{
-  text-align: center;
+  text-align: center; font-family: "Amatic SC";
 }
 p {
-  text-align: center;
+  text-align: center; font-family: "Amatic SC";
 }
 h3{
-  text-align: center;
+  text-align: center; font-family: "Amatic SC";
 }
 p {
-  text-align: center;
+  text-align: center; font-family: "Amatic SC";
 }
+ body {
+   background-color: coral;
+ }
